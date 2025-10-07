@@ -1,0 +1,4 @@
+cacau, 8.7
+isabella, 9.8
+gabi, 7.9
+daniel, 6.8
